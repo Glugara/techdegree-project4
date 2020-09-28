@@ -4,11 +4,27 @@
 
 // Color Variables
 
-$color-1: #6163ED;
-$color-2: #ED6361;
-$color-3: #B0DB85;
-$color-4: #3C9678;
-$color-5: #85B4C1;
+$color-primary: #58e1c1;
+$color-secondary: #777;
+$color-borders: #58e1c1;
+// Button Default also links and col 11 colors
+$color-buttondefault: #51ddfc;
+// Button Error also col 9 color
+$color-buttonerror: #e4757a;
+// Button Info color also col 1 color
+$color-buttoninfo: #927bc1;
+// Button Success also col 10 color
+$color-buttonsuccess: #63cc82;
+// Button Warning color also col 2 color
+$color-buttonwarning: #fd7856;
+$color-col3: #deb2ee;
+$color-col4: #7ee6fd;
+$color-col5: #88d9a0;
+$color-col6: #4da2bb;
+$color-col7: #ec9fa3;
+$color-col8: #fd9f85;
+$color-col12: #80e8d1;
+
 
 // Media Query Variables
 
